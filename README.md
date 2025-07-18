@@ -45,7 +45,7 @@ You need to change these variables in order for the backup file to work properly
 
 3. Run the script manually from PowerShell:
 
-Right click on the file, then click on "Run with PowerShell" button
+   Right click on the file, then click on "Run with PowerShell" button
 
 
 4. (Optional) Copy the file to the startup folder for automatic daily backups
