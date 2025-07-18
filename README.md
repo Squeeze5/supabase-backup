@@ -25,7 +25,7 @@ This repository contains a PowerShell script to automate the backup of a Supabas
 1. Clone the repository or download the script and place it to any folder.:
 
 ```bash
-git clone https://github.com/yourusername/supabase-backup-script.git
+git clone https://github.com/Squeeze5/supabase-backup-script.git
 ```
 
 2. Open `backup.ps1` in a text editor and configure the following variables:
