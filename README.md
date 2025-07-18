@@ -15,14 +15,14 @@ This repository contains a PowerShell script to automate the backup of a Supabas
 ## Requirements
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- A running Supabase local container or connection info for your cloud project
-- PostgreSQL client tools (`pg_dump`)
+- Your SupaBase connection string.
+- PostgreSQL client tools (`pg_dump`) and [Supabase CLI](https://supabase.com/docs/guides/local-development/cli/getting-started)
 
 ---
 
 ## Usage
 
-1. Clone the repository or download the script:
+1. Clone the repository or download the script and place it to any folder.:
 
 ```bash
 git clone https://github.com/yourusername/supabase-backup-script.git
