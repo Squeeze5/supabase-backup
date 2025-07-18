@@ -16,7 +16,7 @@ This repository contains a PowerShell script to automate the backup of a Supabas
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Your SupaBase connection string.
-- PostgreSQL client tools (`pg_dump`) and [Supabase CLI](https://supabase.com/docs/guides/local-development/cli/getting-started)
+- [PostgreSQL client tools (`pg_dump`)](https://www.postgresql.org/download) and [Supabase CLI](https://supabase.com/docs/guides/local-development/cli/getting-started)
 
 ---
 
