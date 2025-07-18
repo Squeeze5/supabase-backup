@@ -45,9 +45,9 @@ You need to change these variables in order for the backup file to work properly
 
 3. Run the script manually from PowerShell:
 
-```powershell
-powershell -ExecutionPolicy Bypass -File .\backup.ps1
-```
+Right click on the file, then click on "Run with PowerShell" button
+<img width="276" height="368" alt="image" src="https://github.com/user-attachments/assets/d6a53bf5-f796-4daf-a173-2a65d6a22941" />
+
 
 4. (Optional) Schedule the script using Windows Task Scheduler for automatic daily backups.
 
