@@ -8,7 +8,7 @@ This repository contains a PowerShell script to automate the backup of a Supabas
 - Exports **roles**, **schema**, and **data** into separate files.
 - Automatically adds the current date to the file names.
 - Launches Docker Desktop automatically before performing the backup (if required).
-- Can be scheduled via Windows Task Scheduler.
+- Can be scheduled via Windows Task Scheduler or startup folder.
 
 ---
 
